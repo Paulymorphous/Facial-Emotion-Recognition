@@ -3,9 +3,9 @@
 ## Table of contents:
 1.Introduction.  
 2.prerequisites.  
-3.How to run:  
-  a. Replicating the model.    
-  b. Live Emotion Recognition.  
+3.How to run:
+ a. Replicating the model.    
+ b. Live Emotion Recognition.  
 4.Future Iterations.  
 
 ## 1.Introduction.
