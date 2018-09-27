@@ -4,8 +4,8 @@
 1.Introduction.  
 2.prerequisites.  
 3.How to run:  
-   a.Replicating the model.    
-   b.Live Emotion Recognition.  
+  a. Replicating the model.    
+  b. Live Emotion Recognition.  
 4.Future Iterations.  
 
 ## 1.Introduction
@@ -20,7 +20,11 @@ For this project, I will be using Google Colab. For those who are unaware, it is
 
 On running Live-Emotion-Recognition.py, your webcam fires up and starts locating faces in real-time, these faces are extracted and are assessed by the model we trained.
 
-## 2.prerequisites 
+## 2.prerequisites  
+Make sure that you install the following libraries:
+  + matplotlib
+  + numpy
+  + sklearn
 
 ## 3.How to run
 ### a.Replicating the model:
@@ -32,7 +36,7 @@ iv. Download the dataset and upload it into your GDrive.
 v. Get creative and aim for better results.
 
 ### b.Live emotion recognition.
-Make sure that you have installed all the libraries mentioned [here](#2.prerequisites).
+Make sure that you have installed all the aforementioned libraries..
 Due to Github's upload limit on file sizes, I was unable to upload the weights of my trained neural network. Make sure you download [this folder](https://drive.google.com/open?id=1-gEWdcFL0tpkIbYKzLoYXRA4qeG-6Ot6) and place it in the root directory.
 Then download and execute the python file and you are good to go.
 
