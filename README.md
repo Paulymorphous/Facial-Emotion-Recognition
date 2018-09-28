@@ -31,7 +31,7 @@ Make sure that you install the following libraries:
 If you are interested in modifying this model and training it yourself, then please feel free to do so.    
 i. Download the IPython Notebook.  
 ii. Open [google Colaboratory.](https://colab.research.google.com/ "Colab time")  
-iii. Upload this notebook from your system.
+iii. Upload this notebook from your system.  
 iv. Download the dataset and upload it into your GDrive.
 v. Get creative and aim for better results.
 
