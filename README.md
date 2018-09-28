@@ -25,6 +25,7 @@ Make sure that you install the following libraries:
   + matplotlib
   + numpy
   + sklearn
+  + keras
 
 ## 3. How to run.
 ### a. Replicating the model:
